@@ -1,0 +1,40 @@
+team strategy: [0.1, 0.2, 0.3, 0.4]
+avg_total_points: 76.97152631578948
+std_total_points: 2.000787288949845
+avg_over_72: 27.122
+std_over_72: 4.005635530100061
+
+
+team strategy: [0.1, 0.05, 0.45, 0.4]
+avg_total_points: 76.02053947368421
+std_total_points: 1.7333534679860378
+avg_over_72: 24.139
+std_over_72: 3.9153133974178873
+
+
+team strategy: [0.1, 0.05, 0.8, 0.05]
+avg_total_points: 73.65747368421053
+std_total_points: 1.9941578877913462
+avg_over_72: 20.598
+std_over_72: 3.988783774535792
+
+
+team strategy: [0.05, 0.05, 0.45, 0.45]
+avg_total_points: 75.88077631578948
+std_total_points: 1.39712043585807
+avg_over_72: 25.57
+std_over_72: 3.427987747936098
+
+
+team strategy: [0.3, 0.3, 0.3, 0.1]
+avg_total_points: 77.47390789473684
+std_total_points: 1.6613071976880218
+avg_over_72: 28.259
+std_over_72: 2.9812613102510825
+
+
+team strategy: [0.05, 0.05, 0.05, 0.85]
+avg_total_points: 74.09434210526315
+std_total_points: 1.2420164093442294
+avg_over_72: 22.611
+std_over_72: 2.4453382179158774
